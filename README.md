@@ -31,3 +31,4 @@ achieve a comprehensive news gathering, editing, and analysis workflow.
 4.	**User Insights:** The Taskflow.ai component (with OpenRouter and Exa.ai) analyzes real-time user behavior and trends related to the topic.
 5.	**Output:** A curated newsletter, incorporating the latest news and user insights, is presented to the user.
 
+![News Generator Output](https://github.com/user-attachments/assets/e37c50cd-4e10-4b31-8795-5bb3b474a9c4)
